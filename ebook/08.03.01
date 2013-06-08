@@ -6,7 +6,7 @@
 
 ####表39：GetDeviceInformation命令
 消息名|描述
-------------|-------------
-GetDeviceInformationRequest|
+----|----
+GetDeviceInformationRequest|这是一个空消息
 
 
