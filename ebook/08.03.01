@@ -1,0 +1,12 @@
+##系统
+
+###设备信息
+
+此操作用于获取设备的信息，比如设备的制造商，型号和固件版本。该设备应该支持通过GetDeviceInformation命令返回设备信息。
+
+####表39：GetDeviceInformation命令
+消息名|描述
+------------|-------------
+GetDeviceInformationRequest|
+
+
